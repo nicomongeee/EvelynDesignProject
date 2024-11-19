@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "513153606849",
+    "project_id": "evelyn-zamora-ed",
+    "storage_bucket": "evelyn-zamora-ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513153606849:android:b5dae71e653acb2e9ca040",
+        "android_client_info": {
+          "package_name": "com.evelynzc.evelyndesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513153606849-9r9ekt3lqac8k17rgqrpjqntla7tjqi3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.evelynzc.evelyndesign",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "513153606849-8urdgk9kpdtuoj4u19evkg9jlu1bgqag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTswPiDYLF9pfypvNUtWWC1T6q77dYkwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513153606849-8urdgk9kpdtuoj4u19evkg9jlu1bgqag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "513153606849-89pi0kil3l4af5831oqko8qankfcrlq8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.evelynzc.evelyndesign"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
